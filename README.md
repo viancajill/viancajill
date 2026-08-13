@@ -41,3 +41,39 @@ Technologies I Want to Learn
 - Advanced Python
 - Advanced JavaScript
 - Database Administration
+
+- Academic Projects
+MotoMate – On-Demand Service System
+A client-server project for ride-hailing and delivery services. This project helped me practice working with databases, APIs, and web development.
+
+Technologies Used:
+PHP
+MySQL
+XAMPP
+REST APIs
+Google Maps API
+
+One-Stop Website: Dental Clinic Finder
+A website project designed to help users find dental clinics in Santa Cruz, Laguna.
+Technologies Used:
+HTML
+CSS
+JavaScript
+PHP
+MySQL
+
+Mansion Network Infrastructure
+A networking project that involved designing a network for a three-floor mansion. It included VLANs, firewall, Wi-Fi security, and IoT devices.
+Technologies Used:
+Cisco Packet Tracer
+VLAN
+Firewall
+WPA3
+IoT
+
+Contact Information
+GitHub: @viancajill
+LinkedIn: ramos-vianca-jill-b
+Email:viancajillr@gmail.com
+
+⭐ Thanks for visiting my GitHub profile!
