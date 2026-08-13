@@ -4,7 +4,7 @@ Student Information
 
 - Name: Vianca Jill L. Ramos
 - Course: ITEP 414 – System Administration and Maintenance
-- Section: BSIT-3E
+- Section: BSIT-4E
 - Date: August 13, 2026
 
 Objectives
