@@ -180,45 +180,7 @@ PART 5 – Enterprise Network Diagram
 
 Network Topology
 
-```text id="8a0s9b"
-                           INTERNET
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │ ISP MODEM/ONT │
-                       └───────┬───────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │ BUSINESS      │
-                       │ ROUTER        │
-                       └───────┬───────┘
-                               │
-                               ▼
-                       ┌───────────────┐
-                       │ FIREWALL      │
-                       └───────┬───────┘
-                               │
-                               ▼
-                  ┌────────────────────────┐
-                  │ 48-PORT MANAGED SWITCH │
-                  └───────────┬────────────┘
-                              │
-       ┌──────────────┬───────┼────────┬───────────────┐
-       │              │       │        │               │
-       ▼              ▼       ▼        ▼               ▼
-      IT             HR    FINANCE    SALES          SERVER
-  VLAN 10         VLAN 20  VLAN 30   VLAN 40        VLAN 50
-       │              │       │        │               │
-       └──────────────┴───────┴────────┴───────────────┘
-                              │
-                              ├── NAS Storage
-                              ├── Printers
-                              └── Wi-Fi 6 Access Points
-                                      │
-                                      ▼
-                                Guest Wi-Fi
-                                VLAN 60
+<img width="1767" height="866" alt="network-draw io" src="https://github.com/user-attachments/assets/a52905e1-d703-4de6-9fa3-61ab7fa45b26" />
 
 
 VLAN and IP Addressing Plan
