@@ -36,16 +36,7 @@ Office Location
 
 Organizational Structure
 
-text id="q0z6h1"
-                    General Manager
-                          │
-        ┌─────────────────┼─────────────────┐
-        │                 │                 │
-       IT                HR              Finance
-        │
-        │
-      Sales
-
+<img width="1788" height="865" alt="network-draw io2" src="https://github.com/user-attachments/assets/1767751a-749b-465c-8e52-42e89f61b12b" />
 
 The company has four main departments: Information Technology, Human Resources, Finance, and Sales.
 
