@@ -36,7 +36,7 @@ Office Location
 
 Organizational Structure
 
-<img width="1788" height="865" alt="network-draw io2" src="https://github.com/user-attachments/assets/1767751a-749b-465c-8e52-42e89f61b12b" />
+<img width="1788" height="865" alt="network-draw io2" src="https://github.com/user-attachments/assets/8f2a170a-a99a-46d2-bf01-78ab534c7bce" />
 
 The company has four main departments: Information Technology, Human Resources, Finance, and Sales.
 
